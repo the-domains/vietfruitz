@@ -1,0 +1,28 @@
+name: VietFruitZ
+favicon: null
+layout_spectrum: 0.3808131907135248
+typography_spectrum: 0.3545042567420751
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7419267783407122
+  lightness: 0.07220321567729115
+  saturation: 0.32251257612369955
+  rhythmicContrast: 0.24108567251823843
+purpose: []
