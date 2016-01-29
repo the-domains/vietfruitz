@@ -1,6 +1,6 @@
 name: VietFruitZ
 favicon: null
-layout_spectrum: 0.99746
+layout_spectrum: 0.49308
 typography_spectrum: 0.74366
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 1
-  lightness: 0.07220321567729115
-  saturation: 0.5
-  rhythmicContrast: 0
+  brandStrength: 0
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
