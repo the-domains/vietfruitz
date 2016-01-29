@@ -4,8 +4,15 @@
         <description><![CDATA[VietFruitZ]]></description>
         <link>https://thegrid.ai/vietfruitz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 04:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 04:20:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vietfruitz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f75f89e7-788f-467c-829b-def882c54d79.jpg">]]></description>
+            <link>https://thegrid.ai/vietfruitz/8d4aabdc-84de-4f41-88c1-0bfc934dd77d/index.html</link>
+            <guid isPermaLink="false">8d4aabdc-84de-4f41-88c1-0bfc934dd77d</guid>
+            <pubDate>Fri, 29 Jan 2016 04:20:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae60526a-681b-4b3a-bc02-0b57226d8bef.jpg">]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/vietfruitz/48aa1e53-66a7-4e42-9cc3-4948fa14d936/index.html</link>
             <guid isPermaLink="false">48aa1e53-66a7-4e42-9cc3-4948fa14d936</guid>
             <pubDate>Fri, 29 Jan 2016 04:07:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54c862bd-3476-4c11-8cc1-07c5ad7e669d.jpg">]]></description>
-            <link>https://thegrid.ai/vietfruitz/8d4aabdc-84de-4f41-88c1-0bfc934dd77d/index.html</link>
-            <guid isPermaLink="false">8d4aabdc-84de-4f41-88c1-0bfc934dd77d</guid>
-            <pubDate>Fri, 29 Jan 2016 03:46:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
